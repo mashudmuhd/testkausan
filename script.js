@@ -75,21 +75,22 @@ class CitiesSlider extends React.Component {
 
 const slides = [
 {
-  city: 'We Are Kauson group',
-  country: '',
+  city: '',
+  country: 'WELCOME',
   img: 'https://images.unsplash.com/photo-1507679799987-c73779587ccf?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=751&q=80' },
 
 {
-  city: 'business across world wide',
+  city: '',
+  country: 'WE ARE',
   img: 'https://images.unsplash.com/photo-1523875194681-bedd468c58bf?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1502&q=80' },
 
 {
   city: '',
-  country: 'business across world wide',
+  country: 'KAUSON GROUP',
   img: 'https://images.unsplash.com/photo-1488998527040-85054a85150e?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80' },
 
 {
-  city: 'We are kauson group',
+  city: '',
   country: '',
   img: 'https://images.unsplash.com/photo-1504868584819-f8e8b4b6d7e3?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=755&q=80' },
 
